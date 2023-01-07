@@ -1,0 +1,5 @@
+map_name: 300BC
+games:
+- game_name: 300BC
+  file_name: 300BC.xml
+version: 0
